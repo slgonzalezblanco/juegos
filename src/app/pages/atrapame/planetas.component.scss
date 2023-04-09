@@ -1,0 +1,12 @@
+img{
+    width: 130px;
+    height: 130px;
+}
+
+.campo{
+    display: flex;
+    .fila{
+        display: flex;
+        flex-direction: column;
+    }
+}
